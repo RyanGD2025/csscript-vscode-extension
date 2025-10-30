@@ -49,4 +49,4 @@ Contribuições são bem-vindas! Se você encontrar um bug nas regras de sintaxe
 Este projeto está sob a [MIT License](LICENSE).
 
 ---
-*Criado por: [Seu Nome de Usuário]*
+*Criado por: [RyanGD2025]*
