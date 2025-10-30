@@ -1,6 +1,6 @@
 # 🎨 CSScript Language Support
 
-![Badge da Versão](https://img.shields.io/badge/version-0.0.1-blue)
+![Badge da Versão](https://img.shields.io/badge/version-1.0.0-blue)
 ![Badge da Licença](https://img.shields.io/github/license/SeuUsuario/csscript-vscode-extension)
 
 Uma extensão de suporte de linguagem e tema para o Visual Studio Code (VS Code) para a linguagem de programação conceitual **CSScript**.
