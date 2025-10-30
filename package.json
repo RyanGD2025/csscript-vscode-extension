@@ -1,0 +1,42 @@
+{
+  "name": "csscript-language",
+  "displayName": "CSScript Language Support",
+  "description": "Suporte de sintaxe e cores para a linguagem CSScript.",
+  "version": "1.0.0",
+  "publisher": "SeuNomeDeUsuario",
+  "engines": {
+    "vscode": "^1.80.0" 
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "csscript",
+        "aliases": [
+          "CSScript",
+          "css"
+        ],
+        "extensions": [
+          ".csscript"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "csscript",
+        "scopeName": "source.csscript",
+        "path": "./syntaxes/csscript.tmLanguage.json"
+      }
+    ],
+    "themes": [
+      {
+        "label": "CSScript Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/csscript-theme.json"
+      }
+    ]
+  }
+}
